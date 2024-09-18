@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hello, I'm [Your Name]! 👋
 
-<!--
-**biniamen/biniamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)
+![GitHub stars](https://img.shields.io/github/stars/YourUsername?style=social)
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate developer with a love for open-source and community building.
+
+- 🔭 I’m currently working on **Ethiopian Capital Market Simulation App**
+- 🌱 I’m currently learning **[Technology]**
+- 👯 I’m looking to collaborate on **[Collaborations]**
+- 💬 Ask me about **[Technology]**
+- ⚡ Fun fact: I love to **[Hobby]**
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+## 💼 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YourUsername)
+[![Twitter](https://img.shields.io/twitter/follow/YourUsername?style=social)](https://twitter.com/YourUsername)
+
+## 🔥 Current Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 🏆 Trophies
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub)
