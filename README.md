@@ -1,35 +1,70 @@
-# Hello, I'm Biniyam! 👋
+<div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/YourUsername?style=social)
+# Hi, I'm Biniyam Mekuria 👋
 
-## 🚀 About Me
+### Software Developer · Project Manager · Digital Solutions Builder
 
-I am a passionate developer with a love for open-source and community building.
+I build practical software and lead technology projects from idea to delivery—  
+with a focus on banking systems, integrations, and business process automation.
 
-- 🔭 I’m currently working on **Ethiopian Capital Market Simulation App**
-- 🌱 I’m currently learning **[Technology]**
-- 👯 I’m looking to collaborate on **[Collaborations]**
-- 💬 Ask me about **[Technology]**
-- ⚡ Fun fact: I love to **<Coding>**
+[LinkedIn](https://www.linkedin.com/in/biniyam-kefelegn-8a80ab102/) · [X](https://x.com/biniasella) · [GitHub](https://github.com/YourGitHubUsername)
 
-## 📈 GitHub Stats
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat&color=5b5bd6)
+![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?style=flat&logo=github&label=Followers)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+</div>
 
-## 📊 Most Used Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+## About me
 
-## 💼 Connect with me
+I’m a software developer and project manager who enjoys solving real business problems with technology. My work spans application development, system integration, digital banking, and coordinating delivery across technical and business teams.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/YourUsername](https://www.linkedin.com/in/biniyam-kefelegn-8a80ab102/))
-[![Twitter](https://img.shields.io/twitter/follow/YourUsername?style=social)]([https://twitter.com/YourUsername](https://x.com/biniasella))
+- 🏦 Delivering enterprise and banking technology projects
+- 🔗 Working on APIs, payment integrations, and connected systems
+- 📱 Building digital services that make processes easier for customers and staff
+- 🚀 Currently working on an **Ethiopian Capital Market Simulation App**
+- 🤝 Interested in useful products, thoughtful collaboration, and well-executed projects
 
-## 🔥 Current Streaks
+## Selected project areas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical&hide_border=true)](https://git.io/streak-stats)
+- **Ethiopian Capital Market Simulation App** — a project focused on making capital-market concepts accessible through a digital simulation experience.
+- **Digital onboarding and customer services** — onboarding, customer information management, and branch-focused digital workflows.
+- **Banking and payment integrations** — connecting financial services and partner platforms through APIs and transaction workflows.
+- **Business process automation** — replacing manual steps with practical applications and streamlined processes.
 
-## 🏆 Trophies
+## Technologies and focus areas
 
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=darkhub)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![API Integration](https://img.shields.io/badge/API%20Integration-334155?style=flat)
+![Project Management](https://img.shields.io/badge/Project%20Management-0F766E?style=flat)
+
+## GitHub activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub streak](https://streak-stats.demolab.com?user=YourGitHubUsername&hide_border=true&theme=tokyonight)
+
+</div>
+
+## Let’s connect
+
+I’m always glad to connect with people building useful products, improving digital services, or exploring technology partnerships.
+
+- **LinkedIn:** [biniyam-kefelegn](https://www.linkedin.com/in/biniyam-kefelegn-8a80ab102/)
+- **X:** [@biniasella](https://x.com/biniasella)
+
+---
+
+<div align="center">
+
+*Building useful technology, one project at a time.*
+
+</div>
