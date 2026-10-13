@@ -39,15 +39,15 @@ My experience includes banking applications, digital customer services, payment 
 
 | Project area | What it supports |
 |:---|:---|
-| **Digital onboarding and customer verification** | Branch-based customer onboarding, identity verification, and customer record workflows |
-| **Paperless Smart Branch and AI onboarding** | Digitized customer and branch processes, review workflows, and operational reporting |
-| **Customer account harmonization** | Customer information review, account harmonization, and online request management |
-| **Loan origination and credit workflows** | Digital processes that support loan applications, review, and approval |
-| **Payroll and staff services** | Payroll processing, core banking posting, and automated deduction workflows |
-| **Engineering estimation workflow** | Routing and tracking engineering requests from submission through estimation |
+| **Fayda Verified Customer Onboarding** | Digital customer onboarding and identity verification for branch operations |
+| **Customer Account Harmonization Platform** | Tools and workflows for reviewing and harmonizing customer records |
+| **Loan Origination and Document Management System** | Digital workflows supporting loan application processing and credit review |
+| **Employee Payroll Management System Integrated With Core Banking** | Payroll processing and integration with core banking services |
+| **Shareholder and Governance Applications** | Shareholder profile verification, change management, and related-party monitoring |
 | **Payment and financial integrations** | Integration work involving Telebirr, M-Pesa, IPS, and shared-wallet services |
 | **Regulatory and statement automation** | Regulatory reporting and automated processing of financial statements |
 | **Applications access portal** | A unified gateway for selected public-facing applications |
+| **Digital Payment Integrations** | Delivery of payment and banking integrations involving Telebirr, M-Pesa, IPS, and shared-wallet services |
 
 ## Technology and delivery
 
