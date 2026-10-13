@@ -7,10 +7,10 @@
 I build practical software and lead technology projects from idea to delivery—  
 with a focus on banking systems, integrations, and business process automation.
 
-[LinkedIn](https://www.linkedin.com/in/biniyam-kefelegn-8a80ab102/) · [X](https://x.com/biniasella) · [GitHub](https://github.com/YourGitHubUsername)
+[LinkedIn](https://www.linkedin.com/in/biniyam-kefelegn-8a80ab102/) · [X](https://x.com/biniasella) · [GitHub](https://github.com/biniamen)
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat&color=5b5bd6)
-![GitHub followers](https://img.shields.io/github/followers/YourGitHubUsername?style=flat&logo=github&label=Followers)
+![Profile views](https://komarev.com/ghpvc/?username=biniamen&style=flat&color=5b5bd6)
+![GitHub followers](https://img.shields.io/github/followers/biniamen?style=flat&logo=github&label=Followers)
 
 </div>
 
@@ -46,11 +46,11 @@ I’m a software developer and project manager who enjoys solving real business 
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=biniamen&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&hide_border=true&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biniamen&layout=compact&hide_border=true&theme=tokyonight)
 
-![GitHub streak](https://streak-stats.demolab.com?user=YourGitHubUsername&hide_border=true&theme=tokyonight)
+![GitHub streak](https://streak-stats.demolab.com?user=biniamen&hide_border=true&theme=tokyonight)
 
 </div>
 
